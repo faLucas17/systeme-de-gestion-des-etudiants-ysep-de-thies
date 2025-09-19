@@ -1,3 +1,4 @@
+<img width="1280" height="942" alt="image" src="https://github.com/user-attachments/assets/aead79be-7f46-418a-99a0-db0409996db0" />
 # 🎓 Système de Gestion des Étudiants ISEP-Thiès
 
 **Projet PHP - ASRI P13**  
